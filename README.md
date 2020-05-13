@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c30de0c-3604-4c2a-b959-0592ee1e13bd/deploy-status)](https://app.netlify.com/sites/kc-tod-web/deploys)
+
 # KC TOD
 
 _SEO friendly page builder in React.js. Heroes, sign-up forms and calls to action._
